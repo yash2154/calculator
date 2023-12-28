@@ -32,7 +32,7 @@ button {
   
 }
 
-button:hover {
+button:hover,input:focus {
   cursor: pointer;
   background-color: rgb(223, 135, 3);
 }
